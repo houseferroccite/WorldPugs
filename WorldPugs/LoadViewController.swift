@@ -16,7 +16,6 @@ class LoadViewController: UIViewController {
         
     }
     
-
     /*
     // MARK: - Navigation
 

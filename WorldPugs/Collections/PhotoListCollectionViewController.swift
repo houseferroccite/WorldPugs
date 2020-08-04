@@ -21,6 +21,11 @@ class PhotoListCollectionViewController: UICollectionViewController {
         super.viewDidLoad()
     }
 
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "ShowSegue" {
+            
+        }
+    }
     /*
     // MARK: - Navigation
 

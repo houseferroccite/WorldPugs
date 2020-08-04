@@ -20,6 +20,7 @@
 		A85BADDD24D5FAAD008434AB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A85BADDC24D5FAAD008434AB /* GoogleService-Info.plist */; };
 		A879355C24D60F2C00A07899 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A879355B24D60F2C00A07899 /* LoginViewController.swift */; };
 		A879355E24D60F5E00A07899 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A879355D24D60F5E00A07899 /* SignUpViewController.swift */; };
+		A879356024D9652800A07899 /* FireBaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A879355F24D9652700A07899 /* FireBaseManager.swift */; };
 		C03518357C0A23E0F64A65BC /* Pods_WorldPugs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6942DE7087E78F043A30956F /* Pods_WorldPugs.framework */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +43,7 @@
 		A85BADDC24D5FAAD008434AB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A879355B24D60F2C00A07899 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		A879355D24D60F5E00A07899 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		A879355F24D9652700A07899 /* FireBaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FireBaseManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				A81094C624D0244100B75D3C /* Assets.xcassets */,
 				A81094C824D0244100B75D3C /* LaunchScreen.storyboard */,
 				A81094CB24D0244100B75D3C /* Info.plist */,
+				A879355F24D9652700A07899 /* FireBaseManager.swift */,
 			);
 			path = WorldPugs;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				A81094D424D0600C00B75D3C /* photoCell.swift in Sources */,
 				A81094DA24D3583200B75D3C /* RoundButton.swift in Sources */,
 				A81094BE24D0243800B75D3C /* AppDelegate.swift in Sources */,
+				A879356024D9652800A07899 /* FireBaseManager.swift in Sources */,
 				A879355C24D60F2C00A07899 /* LoginViewController.swift in Sources */,
 				A81094D224D0331F00B75D3C /* PhotoListCollectionViewController.swift in Sources */,
 				A879355E24D60F5E00A07899 /* SignUpViewController.swift in Sources */,
